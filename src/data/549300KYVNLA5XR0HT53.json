@@ -1,0 +1,469 @@
+{
+  "nodes": [
+    {
+      "id": "549300EXH4L47WFRGL93",
+      "title": "549300EXH4L47WFRGL93",
+      "label": "SAMSUNG ELECTRONICS ISTANBUL PAZARLAMA VE TİCARET LİMİTED ŞİRKETİ",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300CWESV5NI78YL42",
+      "title": "549300CWESV5NI78YL42",
+      "label": "Samsung Electronics Holding GmbH",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300H3Y6CV0C6O2A59",
+      "title": "549300H3Y6CV0C6O2A59",
+      "label": "Samsung Electronics Austria GmbH.",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "5493000N7L6GN0BDU980",
+      "title": "5493000N7L6GN0BDU980",
+      "label": "SAMSUNG ELECTRONICS FRANCE",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300NURMJV1O5EQA54",
+      "title": "549300NURMJV1O5EQA54",
+      "label": "Samsung Electronics Benelux B.V.",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300N1DZWZX0JI6863",
+      "title": "549300N1DZWZX0JI6863",
+      "label": "SAMSUNG Electronics Slovakia s.r.o.",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "54930041T3OJSI2HXY84",
+      "title": "54930041T3OJSI2HXY84",
+      "label": "SAMSUNG ELECTRONICS IBERIA SA",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300D178N8UFD6I259",
+      "title": "549300D178N8UFD6I259",
+      "label": "SAMSUNG ELECTRONICS (UK) LIMITED",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300KPKY7DRCHYZF60",
+      "title": "549300KPKY7DRCHYZF60",
+      "label": "Samsung Electronics Nordic Aktiebolag",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300TR42D0H3OOUR55",
+      "title": "549300TR42D0H3OOUR55",
+      "label": "Samsung Electronics Europe Logistics B.V.",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "335800R9XILUYSTFDA59",
+      "title": "335800R9XILUYSTFDA59",
+      "label": "SAMSUNG INDIA ELECTRONICS PRIVATE LIMITED",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300SPT964B3GQGO31",
+      "title": "549300SPT964B3GQGO31",
+      "label": "SAMSUNG ELECTRONICS ROMANIA SRL",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "5493006GE4E3VPH2FZ02",
+      "title": "5493006GE4E3VPH2FZ02",
+      "label": "Samsung Electronics Egypt S.A.E",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300FBU4ABGFXVF252",
+      "title": "549300FBU4ABGFXVF252",
+      "label": "SAMSUNG ELECTRONICS MAGHREB ARAB , SARL A ASSOCIE UNIQUE",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300UJWV505EY7IO49",
+      "title": "549300UJWV505EY7IO49",
+      "label": "SAMSUNG SEMICONDUCTOR EUROPE LIMITED",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "9884004ARY4RODDUCT12",
+      "title": "9884004ARY4RODDUCT12",
+      "label": "삼성디스플레이(주)",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300QRHQ2JFP7YS408",
+      "title": "549300QRHQ2JFP7YS408",
+      "label": "\"SAMSUNG ELECTRONICS POLSKA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300T02IGNY44SOI57",
+      "title": "549300T02IGNY44SOI57",
+      "label": "Samsung Semiconductor Europe GmbH",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300P683KIY097ZG79",
+      "title": "549300P683KIY097ZG79",
+      "label": "Samsung Electronics Czech and Slovak, s.r.o.",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "391200ZUV0OBZ6DXZ251",
+      "title": "391200ZUV0OBZ6DXZ251",
+      "label": "SAMSUNG ELETRONICA DA AMAZONIA LTDA",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300QUYBII2PQ4T727",
+      "title": "549300QUYBII2PQ4T727",
+      "label": "Samsung Electronics Ελλας Ανωνυμη Εισαγωγικη Και Εμπορικη Εταιρεια Ηλεκτρικων Και Ηλεκτρονικων Ειδων",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300Q25E47PLNDRB53",
+      "title": "549300Q25E47PLNDRB53",
+      "label": "\"Samsung Electronics Baltics\" SIA",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "9884007ER46L6N7EI764",
+      "title": "9884007ER46L6N7EI764",
+      "label": "삼성전자(주)",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300MJA6PWCLC7G017",
+      "title": "549300MJA6PWCLC7G017",
+      "label": "SAMSUNG ELECTRONICS ITALIA S.P.A.",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "5493002EN2QJKHL2X955",
+      "title": "5493002EN2QJKHL2X955",
+      "label": "Samsung Electronics Air Conditioner Europe B.V.",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300LKSXTJD9P0YZ08",
+      "title": "549300LKSXTJD9P0YZ08",
+      "label": "SAMSUNG - ELECTRÓNICA PORTUGUESA S.A.",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300S52TQRCUV2XY81",
+      "title": "549300S52TQRCUV2XY81",
+      "label": "Samsung Gulf Electronics FZE",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300KYVNLA5XR0HT53",
+      "title": "549300KYVNLA5XR0HT53",
+      "label": "Samsung Electronics GmbH",
+      "level": 0,
+      "no_parent": false
+    },
+    {
+      "id": "549300IQRKY61SFEBX12",
+      "title": "549300IQRKY61SFEBX12",
+      "label": "SAMSUNG DENMARK RESEARCH CENTER ApS",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "5493000EQ6F1AZ4SJX31",
+      "title": "5493000EQ6F1AZ4SJX31",
+      "label": "Samsung Electronics Overseas B.V.",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300JW2IH8JMY1QX83",
+      "title": "549300JW2IH8JMY1QX83",
+      "label": "SAMSUNG FRANCE RESEARCH CENTER SARL",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300LO2GWZ8BBSY014",
+      "title": "549300LO2GWZ8BBSY014",
+      "label": "SAMSUNG ELECTRONICS SOUTH AFRICA (PTY) LTD",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300ER47Y3A5QX4S12",
+      "title": "549300ER47Y3A5QX4S12",
+      "label": "Samsung Electronics Magyar Zártkörűen Működő Részvénytársaság",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300EBVUI4BTN30808",
+      "title": "549300EBVUI4BTN30808",
+      "label": "SAMSUNG ELECTRONICS POLAND MANUFACTURING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300YKPCCZO6Y5JD07",
+      "title": "549300YKPCCZO6Y5JD07",
+      "label": "Samsung Electronics Levant Jordan Co. Ltd",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300T8IFA708GIIW37",
+      "title": "549300T8IFA708GIIW37",
+      "label": "SAMSUNG ELECTRONICS SOUTH AFRICA PRODUCTION",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300HZL4BUX1HYKS61",
+      "title": "549300HZL4BUX1HYKS61",
+      "label": "Samsung Electronics Switzerland GmbH",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300JP2XFXEW4EC604",
+      "title": "549300JP2XFXEW4EC604",
+      "label": "Samsung Electronics Europe Holding Coöperatief U.A.",
+      "level": 1,
+      "no_parent": true
+    },
+    {
+      "id": "549300XNMOWG1IGIUS69",
+      "title": "549300XNMOWG1IGIUS69",
+      "label": "SAMSUNG CAMBRIDGE SOLUTION CENTRE LIMITED",
+      "level": 1,
+      "no_parent": true
+    }
+  ],
+  "edges": [
+    {
+      "from": "549300EXH4L47WFRGL93",
+      "to": "549300NURMJV1O5EQA54",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300CWESV5NI78YL42",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300H3Y6CV0C6O2A59",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "5493000N7L6GN0BDU980",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300NURMJV1O5EQA54",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300N1DZWZX0JI6863",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "54930041T3OJSI2HXY84",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300D178N8UFD6I259",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300KPKY7DRCHYZF60",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300TR42D0H3OOUR55",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "335800R9XILUYSTFDA59",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300SPT964B3GQGO31",
+      "to": "549300JP2XFXEW4EC604",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "5493006GE4E3VPH2FZ02",
+      "to": "549300NURMJV1O5EQA54",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300FBU4ABGFXVF252",
+      "to": "549300NURMJV1O5EQA54",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300UJWV505EY7IO49",
+      "to": "549300D178N8UFD6I259",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "9884004ARY4RODDUCT12",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300QRHQ2JFP7YS408",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300T02IGNY44SOI57",
+      "to": "549300CWESV5NI78YL42",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300P683KIY097ZG79",
+      "to": "549300JP2XFXEW4EC604",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "391200ZUV0OBZ6DXZ251",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300QUYBII2PQ4T727",
+      "to": "549300JP2XFXEW4EC604",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300Q25E47PLNDRB53",
+      "to": "549300NURMJV1O5EQA54",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300MJA6PWCLC7G017",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "5493002EN2QJKHL2X955",
+      "to": "549300JP2XFXEW4EC604",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300LKSXTJD9P0YZ08",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300S52TQRCUV2XY81",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300KYVNLA5XR0HT53",
+      "to": "549300CWESV5NI78YL42",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300IQRKY61SFEBX12",
+      "to": "549300JP2XFXEW4EC604",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "5493000EQ6F1AZ4SJX31",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300JW2IH8JMY1QX83",
+      "to": "549300JP2XFXEW4EC604",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300LO2GWZ8BBSY014",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300ER47Y3A5QX4S12",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300EBVUI4BTN30808",
+      "to": "549300JP2XFXEW4EC604",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300YKPCCZO6Y5JD07",
+      "to": "549300NURMJV1O5EQA54",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300T8IFA708GIIW37",
+      "to": "549300NURMJV1O5EQA54",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300HZL4BUX1HYKS61",
+      "to": "549300H3Y6CV0C6O2A59",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300JP2XFXEW4EC604",
+      "to": "9884007ER46L6N7EI764",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300XNMOWG1IGIUS69",
+      "to": "549300JP2XFXEW4EC604",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    }
+  ]
+}

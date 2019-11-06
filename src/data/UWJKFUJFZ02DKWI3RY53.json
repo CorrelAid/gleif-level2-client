@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "549300I6H6XD4HU7X625",
+      "title": "549300I6H6XD4HU7X625",
+      "label": "The Coca-Cola Company Master Trust for 401(k) Plans",
+      "level": 1,
+      "no_parent": false
+    },
+    {
+      "id": "UWJKFUJFZ02DKWI3RY53",
+      "title": "UWJKFUJFZ02DKWI3RY53",
+      "label": "THE COCA-COLA COMPANY",
+      "level": 0,
+      "no_parent": false
+    },
+    {
+      "id": "5493009XDLC6P0EM1723",
+      "title": "5493009XDLC6P0EM1723",
+      "label": "INNOCENT LIMITED",
+      "level": 1,
+      "no_parent": false
+    },
+    {
+      "id": "5493005GWX2HVMZNEO34",
+      "title": "5493005GWX2HVMZNEO34",
+      "label": "RED LIFE REINSURANCE LIMITED",
+      "level": 1,
+      "no_parent": false
+    },
+    {
+      "id": "549300DIVO0BXH2SBY91",
+      "title": "549300DIVO0BXH2SBY91",
+      "label": "BEVERAGE FINANCIAL CENTRE UNLIMITED COMPANY",
+      "level": 1,
+      "no_parent": false
+    },
+    {
+      "id": "549300FD0ELR6PSTM595",
+      "title": "549300FD0ELR6PSTM595",
+      "label": "COCA-COLA REFRESHMENTS CANADA COMPANY/COMPAGNIE RAFRAÎCHISSEMENTS COCA-COLA CANADA",
+      "level": 1,
+      "no_parent": false
+    },
+    {
+      "id": "549300IP7H46C3FB8404",
+      "title": "549300IP7H46C3FB8404",
+      "label": "Atlantic Industries",
+      "level": 1,
+      "no_parent": false
+    },
+    {
+      "id": "549300Z7BL7FW8J5BL73",
+      "title": "549300Z7BL7FW8J5BL73",
+      "label": "The Coca-Cola Company Master Retirement Trust",
+      "level": 1,
+      "no_parent": false
+    },
+    {
+      "id": "549300P5FQEW7DOYK240",
+      "title": "549300P5FQEW7DOYK240",
+      "label": "The Minute Maid Company Canada Inc.",
+      "level": 1,
+      "no_parent": false
+    }
+  ],
+  "edges": [
+    {
+      "from": "549300I6H6XD4HU7X625",
+      "to": "UWJKFUJFZ02DKWI3RY53",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "5493009XDLC6P0EM1723",
+      "to": "UWJKFUJFZ02DKWI3RY53",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "5493005GWX2HVMZNEO34",
+      "to": "UWJKFUJFZ02DKWI3RY53",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300DIVO0BXH2SBY91",
+      "to": "UWJKFUJFZ02DKWI3RY53",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300FD0ELR6PSTM595",
+      "to": "UWJKFUJFZ02DKWI3RY53",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300IP7H46C3FB8404",
+      "to": "UWJKFUJFZ02DKWI3RY53",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300Z7BL7FW8J5BL73",
+      "to": "UWJKFUJFZ02DKWI3RY53",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "from": "549300P5FQEW7DOYK240",
+      "to": "UWJKFUJFZ02DKWI3RY53",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    }
+  ]
+}

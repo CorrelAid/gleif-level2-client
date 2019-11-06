@@ -1,0 +1,257 @@
+{
+  "nodes": [
+    {
+      "id": "KY37LUS27QQX7BB93L28",
+      "title": "Nestlé S.A.",
+      "label": "Nestlé S.A.",
+      "level": 0
+    },
+    {
+      "id": "2",
+      "title": "Test 2",
+      "label": "Test 2",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "title": "Test 3",
+      "label": "Test 3",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "title": "Test 4",
+      "label": "Test 4",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "title": "Test 5",
+      "label": "Test 5",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "title": "Test 6",
+      "label": "Test 6",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "title": "Test 7",
+      "label": "Test 7",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "title": "Test 8",
+      "label": "Test 8",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "title": "Test 9",
+      "label": "Test 9",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "title": "Test 10",
+      "label": "Test 10",
+      "level": 3
+    },
+    {
+      "id": "11",
+      "title": "Test 11",
+      "label": "Test 11",
+      "level": 3
+    },
+    {
+      "id": "12",
+      "title": "Test 12",
+      "label": "Test 12",
+      "level": 4
+    },
+    {
+      "id": "13",
+      "title": "Test 13",
+      "label": "Test 13",
+      "level": 4
+    },
+    {
+      "id": "14",
+      "title": "Test 14",
+      "label": "Test 14",
+      "color": {
+          "border": "#C6D442",
+          "background": "#C6D442",
+          "highlight": "#00ace9",
+          "hover": "#00ace9"
+      },
+      "level": 4
+    },
+    {
+      "id": "15",
+      "title": "Test 15",
+      "label": "Test 15",
+      "cid": "14",
+      "level": 5
+    },
+    {
+      "id": "16",
+      "title": "Test 16",
+      "label": "Test 16",
+      "cid": "14",
+      "level": 5
+    },
+    {
+      "id": "17",
+      "title": "Test 17",
+      "label": "Test 17",
+      "cid": "14",
+      "level": 5
+    },
+    {
+      "id": "18",
+      "title": "Test 18",
+      "label": "Test 18",
+      "cid": "14",
+      "level": 5
+    },
+    {
+      "id": "19",
+      "title": "Test 19",
+      "label": "Test 19",
+      "cid": "14",
+      "level": 6
+    },
+    {
+      "id": "20",
+      "title": "Test 20",
+      "label": "Test 20",
+      "cid": "14",
+      "level": 6
+    },
+    {
+      "id": "21",
+      "title": "Test 21",
+      "label": "Test 21",
+      "cid": "14",
+      "level": 6
+    },
+    {
+      "id": "22",
+      "title": "Test 22",
+      "label": "Test 22",
+      "cid": "14",
+      "level": 6
+    }
+  ],
+  "edges": [
+    {
+      "to": "KY37LUS27QQX7BB93L28",
+      "from": "2",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "KY37LUS27QQX7BB93L28",
+      "from": "3",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "KY37LUS27QQX7BB93L28",
+      "from": "4",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "2",
+      "from": "5",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "2",
+      "from": "6",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "3",
+      "from": "7",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "3",
+      "from": "8",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "7",
+      "from": "9",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "6",
+      "from": "10",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "6",
+      "from": "11",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "11",
+      "from": "12",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "11",
+      "from": "13",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "11",
+      "from": "14",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "14",
+      "from": "15",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "14",
+      "from": "16",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "14",
+      "from": "17",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "14",
+      "from": "18",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "18",
+      "from": "19",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "18",
+      "from": "20",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "15",
+      "from": "21",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    },
+    {
+      "to": "17",
+      "from": "22",
+      "label": "IS_DIRECTLY_CONSOLIDATED_BY"
+    }
+  ]
+}
