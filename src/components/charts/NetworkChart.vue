@@ -58,13 +58,7 @@
                         </v-list-tile>
                     </div>
                 </v-expand-transition>
-                <v-btn
-                        color="error" class="right mr-3" v-if="showDetails"
-                        :href="challengeLink"
-                        ref="challengeBtn"
-                >
-                    Challenge Entity
-                </v-btn>
+           
                 <div style="clear: both"></div>
             </v-list>
         </div>
@@ -145,11 +139,6 @@
             entityLEI: false,
             loadingEntity: false
         }),
-        computed: {
-            challengeLink() {
-                return `${process.env.VUE_APP_CHALLENGE_URL}${this.entity.id}_1#`;
-            }  
-        },
         watch: {
             options: {
                 deep: false,
